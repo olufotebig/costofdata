@@ -18,3 +18,4 @@
   * [Airtel Unlimited Data Plan](http://www.africa.airtel.com/wps/wcm/connect/AfricaRevamp/Nigeria/Home/Personal/Internet/TariffPlans/UNLIMITED-dataplans) 
 * Add Special Plans
   * [Airtel Youtube Packs](http://www.africa.airtel.com/wps/wcm/connect/AfricaRevamp/Nigeria/Home/Personal/Internet/TariffPlans/smartspeedoo-+YouTube+Packs)
+  * [9mobile Smartpaks](http://9mobile.com.ng/moreblaze-data-services/data-plans/smartpaks/)

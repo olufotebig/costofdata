@@ -1,0 +1,200 @@
+{
+  "dateNow": 1509821953101,
+  "data": [
+    {
+      "plans": "1GB night only plan (12am -5am)",
+      "price(N)": "200",
+      "USSD codes": "*229*3*11#",
+      "SMS to 229": "",
+      "validity": "1 day",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "2GB evening & weekend plan (7PM – 7AM) and the whole of weekend",
+      "price(N)": "1,000",
+      "USSD codes": "*229*3*12#",
+      "SMS to 229": "",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "5GB evening & weekend plan (7PM – 7AM) and the whole of weekend",
+      "price(N)": "2,000",
+      "USSD codes": "*229*3*13#\n100MB whatsapp (24/7)",
+      "SMS to 229": "",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "1GB",
+      "price(N)": "1,000",
+      "USSD codes": "*229*2*7#",
+      "SMS to 229": "",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "1.5GB",
+      "price(N)": "1,200",
+      "USSD codes": "*229*2*25#",
+      "SMS to 229": "AND11",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "2.5GB",
+      "price(N)": "2,000",
+      "USSD codes": "*229*2*8#",
+      "SMS to 229": "AND2",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "4GB",
+      "price(N)": "3,000",
+      "USSD codes": "*229*2*35#",
+      "SMS to 229": "",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "5.5GB",
+      "price(N)": "4,000",
+      "USSD codes": "*229*2*36#",
+      "SMS to 229": "",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "11.5GB",
+      "price(N)": "8,000",
+      "USSD codes": "*229*2*5#",
+      "SMS to 229": "MB6",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "15GB",
+      "price(N)": "10,000",
+      "USSD codes": "*229*4*1#",
+      "SMS to 229": "SM1",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "27.5GB",
+      "price(N)": "18,000",
+      "USSD codes": "*229*4*3#",
+      "SMS to 229": "SM3",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "Daily 10MB",
+      "price(N)": "50",
+      "USSD codes": "*229*3*8#",
+      "SMS to 229": "MI3",
+      "validity": "24 hours",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "Daily 40MB",
+      "price(N)": "100",
+      "USSD codes": "*229*3*1#",
+      "SMS to 229": "MI1",
+      "validity": "24 hours",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "150MB",
+      "price(N)": "200",
+      "USSD codes": "*229*2*10#",
+      "SMS to 229": "LCD",
+      "validity": "7 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "500MB",
+      "price(N)": "500",
+      "USSD codes": "*229*2*12#",
+      "SMS to 229": "LCD2",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "quaterly plan (30GB)",
+      "price(N)": "27,500",
+      "USSD codes": "*229*5*1#",
+      "SMS to 229": "4M",
+      "validity": "90 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "bi-annual plan (60GB)",
+      "price(N)": "55,000",
+      "USSD codes": "*229*5*2#",
+      "SMS to 229": "6M",
+      "validity": "120 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "100GB Plan",
+      "price(N)": "84,992",
+      "USSD codes": "*229*4*5#",
+      "SMS to 229": "SM5",
+      "validity": "30 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "annual plan (120GB)",
+      "price(N)": "110,000",
+      "USSD codes": "*229*5*3#",
+      "SMS to 229": "12M",
+      "validity": "365 days",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plans": "1GB (weekend plan)",
+      "price(N)": "500",
+      "USSD codes": "*5995*2#",
+      "SMS to 229": "",
+      "validity": "friday 11:59pm – sunday 11:59pm",
+      "categoryTitle": "Plan"
+    },
+    {
+      "plan": "500MB",
+      "monthly cost(N)": "500",
+      "activation code \n(sms to 8183)": "smarta",
+      "activtion code \n(USSD)": "*229*2*11#",
+      "categoryTitle": "smartphone plans"
+    },
+    {
+      "plan": "1GB",
+      "monthly cost(N)": "1,000",
+      "activation code \n(sms to 8183)": "smartb",
+      "activtion code \n(USSD)": "*229*2*22#",
+      "categoryTitle": "smartphone plans"
+    },
+    {
+      "plan": "2.5GB",
+      "monthly cost(N)": "2,000",
+      "activation code \n(sms to 8183)": "smartc",
+      "activtion code \n(USSD)": "*229*2*44#",
+      "categoryTitle": "smartphone plans"
+    },
+    {
+      "plan": "5GB",
+      "monthly cost(N)": "3,500",
+      "activation code \n(sms to 8183)": "smartd",
+      "activtion code \n(USSD)": "*229*2*33#",
+      "categoryTitle": "smartphone plans"
+    },
+    {
+      "plan": "11.5GB",
+      "monthly cost(N)": "8,000",
+      "activation code \n(sms to 8183)": "smarte",
+      "activtion code \n(USSD)": "*229*2*55#",
+      "categoryTitle": "smartphone plans"
+    }
+  ]
+}
