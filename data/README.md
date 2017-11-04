@@ -8,6 +8,9 @@
 ## Airtel
 [Airtel SmartSPEEDOO Data Plans](http://www.africa.airtel.com/wps/wcm/connect/AfricaRevamp/Nigeria/Home/Personal/Internet/TariffPlans/smartspeedoo-dataplans)
 
+## 9Mobile
+[9 Mobile data plans](https://9mobile.com.ng/moreblaze-data-services/data-plans/)
+
 ## Directories content
 * sample.html: sample section of html to be crawled for data
 * script.js: snippet to extract data
