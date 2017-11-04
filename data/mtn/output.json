@@ -1,97 +1,97 @@
 {
-  "dateNow": 1509731492504,
+  "dateNow": 1509820610410,
   "data": [
-    {
-      "categoryTitle": "Daily Plans",
-      "data": [
-        {
-          "dataBundleSize": "50MB",
-          "dataBundleCost": "N100",
-          "dataBundleDuration": "24 Hrs",
-          "dataBundleInstruction": "Text\"104\" to 131"
-        },
-        {
-          "dataBundleSize": "150MB",
-          "dataBundleCost": "N200",
-          "dataBundleDuration": "24 Hrs",
-          "dataBundleInstruction": "Text\"113\" to 131"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Weekly Plans",
-      "data": [
-        {
-          "dataBundleSize": "150MB",
-          "dataBundleCost": "N300",
-          "dataBundleDuration": "7 Days",
-          "dataBundleInstruction": "Text\"102\" to 131"
-        },
-        {
-          "dataBundleSize": "500MB + 250MB (*bonus data)",
-          "dataBundleCost": "N500",
-          "dataBundleDuration": "7 Days",
-          "dataBundleInstruction": "Text\"103\" to 131"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "Monthly Plans",
-      "data": [
-        {
-          "dataBundleSize": "1GB + 500MB (*bonus data)",
-          "dataBundleCost": "N1,000",
-          "dataBundleDuration": "30 Days",
-          "dataBundleInstruction": "Text\"106\" to 131"
-        },
-        {
-          "dataBundleSize": "1.5GB",
-          "dataBundleCost": "N1,200",
-          "dataBundleDuration": "30 Days",
-          "dataBundleInstruction": "Text\"130\" to 131"
-        },
-        {
-          "dataBundleSize": "2.5GB + 1GB(*bonus data)",
-          "dataBundleCost": "N2,000",
-          "dataBundleDuration": "30 Days",
-          "dataBundleInstruction": "Text\"110\" to 131"
-        },
-        {
-          "dataBundleSize": "5GB",
-          "dataBundleCost": "N3,500",
-          "dataBundleDuration": "30 Days",
-          "dataBundleInstruction": "Text\"107\" to 131"
-        },
-        {
-          "dataBundleSize": "10GB",
-          "dataBundleCost": "N5,000",
-          "dataBundleDuration": "30 Days",
-          "dataBundleInstruction": "Text \"116\" to 131"
-        },
-        {
-          "dataBundleSize": "22GB",
-          "dataBundleCost": "N10,000",
-          "dataBundleDuration": "30 Days",
-          "dataBundleInstruction": "Text\"117\" to 131"
-        }
-      ]
-    },
-    {
-      "categoryTitle": "60 Day / Quarterly Plans",
-      "data": [
-        {
-          "dataBundleSize": "50GB",
-          "dataBundleCost": "N20,000",
-          "dataBundleDuration": "60 Days",
-          "dataBundleInstruction": "Text\"118\" to 131"
-        },
-        {
-          "dataBundleSize": "85GB",
-          "dataBundleCost": "N50,000",
-          "dataBundleDuration": "90 Days",
-          "dataBundleInstruction": "Text\"133\" to 131"
-        }
-      ]
-    }
+    [
+      {
+        "dataBundleSize": "50MB",
+        "dataBundleCost": "N100",
+        "dataBundleDuration": "24 Hrs",
+        "dataBundleInstruction": "Text\"104\" to 131",
+        "categoryTitle": "Daily Plans"
+      },
+      {
+        "dataBundleSize": "150MB",
+        "dataBundleCost": "N200",
+        "dataBundleDuration": "24 Hrs",
+        "dataBundleInstruction": "Text\"113\" to 131",
+        "categoryTitle": "Daily Plans"
+      }
+    ],
+    [
+      {
+        "dataBundleSize": "150MB",
+        "dataBundleCost": "N300",
+        "dataBundleDuration": "7 Days",
+        "dataBundleInstruction": "Text\"102\" to 131",
+        "categoryTitle": "Weekly Plans"
+      },
+      {
+        "dataBundleSize": "500MB + 250MB (*bonus data)",
+        "dataBundleCost": "N500",
+        "dataBundleDuration": "7 Days",
+        "dataBundleInstruction": "Text\"103\" to 131",
+        "categoryTitle": "Weekly Plans"
+      }
+    ],
+    [
+      {
+        "dataBundleSize": "1GB + 500MB (*bonus data)",
+        "dataBundleCost": "N1,000",
+        "dataBundleDuration": "30 Days",
+        "dataBundleInstruction": "Text\"106\" to 131",
+        "categoryTitle": "Monthly Plans"
+      },
+      {
+        "dataBundleSize": "1.5GB",
+        "dataBundleCost": "N1,200",
+        "dataBundleDuration": "30 Days",
+        "dataBundleInstruction": "Text\"130\" to 131",
+        "categoryTitle": "Monthly Plans"
+      },
+      {
+        "dataBundleSize": "2.5GB + 1GB(*bonus data)",
+        "dataBundleCost": "N2,000",
+        "dataBundleDuration": "30 Days",
+        "dataBundleInstruction": "Text\"110\" to 131",
+        "categoryTitle": "Monthly Plans"
+      },
+      {
+        "dataBundleSize": "5GB",
+        "dataBundleCost": "N3,500",
+        "dataBundleDuration": "30 Days",
+        "dataBundleInstruction": "Text\"107\" to 131",
+        "categoryTitle": "Monthly Plans"
+      },
+      {
+        "dataBundleSize": "10GB",
+        "dataBundleCost": "N5,000",
+        "dataBundleDuration": "30 Days",
+        "dataBundleInstruction": "Text \"116\" to 131",
+        "categoryTitle": "Monthly Plans"
+      },
+      {
+        "dataBundleSize": "22GB",
+        "dataBundleCost": "N10,000",
+        "dataBundleDuration": "30 Days",
+        "dataBundleInstruction": "Text\"117\" to 131",
+        "categoryTitle": "Monthly Plans"
+      }
+    ],
+    [
+      {
+        "dataBundleSize": "50GB",
+        "dataBundleCost": "N20,000",
+        "dataBundleDuration": "60 Days",
+        "dataBundleInstruction": "Text\"118\" to 131",
+        "categoryTitle": "60 Day / Quarterly Plans"
+      },
+      {
+        "dataBundleSize": "85GB",
+        "dataBundleCost": "N50,000",
+        "dataBundleDuration": "90 Days",
+        "dataBundleInstruction": "Text\"133\" to 131",
+        "categoryTitle": "60 Day / Quarterly Plans"
+      }
+    ]
   ]
 }

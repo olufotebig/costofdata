@@ -15,15 +15,12 @@ function parseListItem(listItem) {
   let rowItems = $(listItem.children[1].children[0].children[0].children);
   let data = [];
   rowItems.map((index, rowItem) => {
-    data.push(parseRowItem(rowItem));
+    data.push(parseRowItem(rowItem, categoryTitle));
   })
-  return {
-    categoryTitle,
-    data
-  }
+  return data;
 }
 
-function parseRowItem(rowItem) {
+function parseRowItem(rowItem, categoryTitle) {
   let dataBundleSize = rowItem.children[0].children[0].innerText;
   let dataBundleCost = rowItem.children[0].children[1].innerText;
   let dataBundleDuration = rowItem.children[0].children[2].innerText;
@@ -32,7 +29,8 @@ function parseRowItem(rowItem) {
     dataBundleSize,
     dataBundleCost,
     dataBundleDuration,
-    dataBundleInstruction
+    dataBundleInstruction,
+    categoryTitle
   }
 }
 
