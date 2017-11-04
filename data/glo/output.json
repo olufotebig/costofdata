@@ -1,248 +1,259 @@
 {
-  "dateNow": 1509735528620,
+  "dateNow": 1509818733126,
   "data": [
     {
-      "categoryTitle": "Plan Details",
-      "data": [
-        {
-          "3G-4G Plan Name": "N50 DATA PLAN",
-          "Price (N)": "50",
-          "Data Volume": "15MB",
-          "Data Volume with 100% Bonus": "30MB",
-          "Validity": "1 Day",
-          "SMS to 127": "14",
-          "USSD Code": "*127*14#"
-        },
-        {
-          "3G-4G Plan Name": "N100 DATAPLAN",
-          "Price (N)": "100",
-          "Data Volume": "35MB",
-          "Data Volume with 100% Bonus": "70MB",
-          "Validity": "1 Day",
-          "SMS to 127": "51",
-          "USSD Code": "*127*51#"
-        },
-        {
-          "3G-4G Plan Name": "N200 DATA PLAN",
-          "Price (N)": "200",
-          "Data Volume": "100MB",
-          "Data Volume with 100% Bonus": "200MB",
-          "Validity": "5 Days",
-          "SMS to 127": "56",
-          "USSD Code": "*127*56#"
-        },
-        {
-          "3G-4G Plan Name": "N500 DATA PLAN",
-          "Price (N)": "500",
-          "Data Volume": "800MB",
-          "Data Volume with 100% Bonus": "1.6GB",
-          "Validity": "10 Days",
-          "SMS to 127": "57",
-          "USSD Code": "*127*57#"
-        },
-        {
-          "3G-4G Plan Name": "N1,000 DATA PLAN",
-          "Price (N)": "1,000",
-          "Data Volume": "1.6GB",
-          "Data Volume with 100% Bonus": "3.2GB",
-          "Validity": "30 Days",
-          "SMS to 127": "53",
-          "USSD Code": "*127*53#"
-        },
-        {
-          "3G-4G Plan Name": "N2000 DATA PLAN",
-          "Price (N)": "2,000",
-          "Data Volume": "3.75GB",
-          "Data Volume with 100% Bonus": "7.5GB",
-          "Validity": "30 Days",
-          "SMS to 127": "55",
-          "USSD Code": "*127*55#"
-        },
-        {
-          "3G-4G Plan Name": "N2,500 DATA PLAN",
-          "Price (N)": "2,500",
-          "Data Volume": "5GB",
-          "Data Volume with 100% Bonus": "10GB",
-          "Validity": "30 Days",
-          "SMS to 127": "58",
-          "USSD Code": "*127*58#"
-        },
-        {
-          "3G-4G Plan Name": "N3,000 DATA PLAN",
-          "Price (N)": "3,000",
-          "Data Volume": "6GB",
-          "Data Volume with 100% Bonus": "12GB",
-          "Validity": "30 Days",
-          "SMS to 127": "54",
-          "USSD Code": "*127*54#"
-        },
-        {
-          "3G-4G Plan Name": "N4,000 DATA PLAN",
-          "Price (N)": "4,000",
-          "Data Volume": "8GB",
-          "Data Volume with 100% Bonus": "16GB",
-          "Validity": "30 Days",
-          "SMS to 127": "59",
-          "USSD Code": "*127*59#"
-        },
-        {
-          "3G-4G Plan Name": "N5,000 DATA PLAN",
-          "Price (N)": "5,000",
-          "Data Volume": "12GB",
-          "Data Volume with 100% Bonus": "24GB",
-          "Validity": "30 Days",
-          "SMS to 127": "11",
-          "USSD Code": "*127*2#"
-        },
-        {
-          "3G-4G Plan Name": "N8,000 DATA PLAN",
-          "Price (N)": "8,000",
-          "Data Volume": "16GB",
-          "Data Volume with 100% Bonus": "32GB",
-          "Validity": "30 Days",
-          "SMS to 127": "12",
-          "USSD Code": "*127*1#"
-        },
-        {
-          "3G-4G Plan Name": "N10,000 DATA PLAN",
-          "Price (N)": "10,000",
-          "Data Volume": "23GB",
-          "Data Volume with 100% Bonus": "46GB",
-          "Validity": "30 Days",
-          "SMS to 127": "15",
-          "USSD Code": "*127*11#"
-        },
-        {
-          "3G-4G Plan Name": "N15,000 DATA PLAN",
-          "Price (N)": "15,000",
-          "Data Volume": "30GB",
-          "Data Volume with 100% Bonus": "60GB",
-          "Validity": "30 Days",
-          "SMS to 127": "16",
-          "USSD Code": "*127*12#"
-        },
-        {
-          "3G-4G Plan Name": "N18,000 DATA PLAN",
-          "Price (N)": "18,000",
-          "Data Volume": "45GB",
-          "Data Volume with 100% Bonus": "90GB",
-          "Validity": "30 Days",
-          "SMS to 127": "17",
-          "USSD Code": "*127*13#"
-        }
-      ]
+      "3G-4G Plan Name": "N50 DATA PLAN",
+      "Price (N)": "50",
+      "Data Volume": "15MB",
+      "Data Volume with 100% Bonus": "30MB",
+      "Validity": "1 Day",
+      "SMS to 127": "14",
+      "USSD Code": "*127*14#",
+      "categoryTitle": "Plan Details"
     },
     {
-      "categoryTitle": "Flexi Plans",
-      "data": [
-        {
-          "Plan Name": "TGIF – N500_WEEKEND_PLAN",
-          "Price (N)": "500",
-          "Data Volume": "3GB",
-          "Validity": "7 days (Weekend – Saturday 12 am – Sunday 11.59pm)",
-          "SMS to 127": "61",
-          "USSD Code": "*127*61#"
-        },
-        {
-          "Plan Name": "N200_NIGHT_PLAN",
-          "Price (N)": "200",
-          "Data Volume": "1GB",
-          "Validity": "1 day (12am – 5am)",
-          "SMS to 127": "60",
-          "USSD Code": "*127*60#"
-        },
-        {
-          "Plan Name": "G 100",
-          "Price (N)": "6,000",
-          "Data Volume": "4GB",
-          "Validity": "100 Hrs or 30 days",
-          "SMS to 127": "20",
-          "USSD Code": "*127*5#"
-        },
-        {
-          "Plan Name": "G 300",
-          "Price (N)": "15,000",
-          "Data Volume": "12GB",
-          "Validity": "300 Hrs or 3 Months",
-          "SMS to 127": "21",
-          "USSD Code": "*127*4#"
-        },
-        {
-          "Plan Name": "G-Leisure",
-          "Price (N)": "5,000",
-          "Data Volume": "12GB",
-          "Validity": "8PM to 9AM – Weekdays + All day on Weekends",
-          "SMS to 127": "30",
-          "USSD Code": "*127*7#"
-        },
-        {
-          "Plan Name": "G-Work",
-          "Price (N)": "6,000",
-          "Data Volume": "12GB",
-          "Validity": "8 AM to 9 PM",
-          "SMS to 127": "31",
-          "USSD Code": "*127*6#"
-        }
-      ]
+      "3G-4G Plan Name": "N100 DATAPLAN",
+      "Price (N)": "100",
+      "Data Volume": "35MB",
+      "Data Volume with 100% Bonus": "70MB",
+      "Validity": "1 Day",
+      "SMS to 127": "51",
+      "USSD Code": "*127*51#",
+      "categoryTitle": "Plan Details"
     },
     {
-      "categoryTitle": "Glo Campus Data Booster",
-      "data": [
-        {
-          "Price": "N100",
-          "Data": "100MB",
-          "Off-Campus": "100MB",
-          "On-Campus": "225MB",
-          "Glo to Glo Bonus": "N100",
-          "Free Data for Gifting": "25MB",
-          "Validity": "2 days"
-        },
-        {
-          "Price": "N200",
-          "Data": "200MB",
-          "Off-Campus": "200MB",
-          "On-Campus": "450MB",
-          "Glo to Glo Bonus": "N200",
-          "Free Data for Gifting": "50MB",
-          "Validity": "4 days"
-        },
-        {
-          "Price": "N500",
-          "Data": "500MB",
-          "Off-Campus": "500MB",
-          "On-Campus": "1.12GB",
-          "Glo to Glo Bonus": "N500",
-          "Free Data for Gifting": "125MB",
-          "Validity": "7days"
-        },
-        {
-          "Price": "N1000",
-          "Data": "1GB",
-          "Off-Campus": "1GB",
-          "On-Campus": "2.25GB",
-          "Glo to Glo Bonus": "N1000",
-          "Free Data for Gifting": "250MB",
-          "Validity": "15 days"
-        },
-        {
-          "Price": "N2000",
-          "Data": "2GB",
-          "Off-Campus": "2GB",
-          "On-Campus": "4.5GB",
-          "Glo to Glo Bonus": "N2000",
-          "Free Data for Gifting": "500MB",
-          "Validity": "30 days"
-        },
-        {
-          "Price": "N5000",
-          "Data": "5GB",
-          "Off-Campus": "5GB",
-          "On-Campus": "11.2GB",
-          "Glo to Glo Bonus": "N5000",
-          "Free Data for Gifting": "1250MB",
-          "Validity": "30 days"
-        }
-      ]
+      "3G-4G Plan Name": "N200 DATA PLAN",
+      "Price (N)": "200",
+      "Data Volume": "100MB",
+      "Data Volume with 100% Bonus": "200MB",
+      "Validity": "5 Days",
+      "SMS to 127": "56",
+      "USSD Code": "*127*56#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N500 DATA PLAN",
+      "Price (N)": "500",
+      "Data Volume": "800MB",
+      "Data Volume with 100% Bonus": "1.6GB",
+      "Validity": "10 Days",
+      "SMS to 127": "57",
+      "USSD Code": "*127*57#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N1,000 DATA PLAN",
+      "Price (N)": "1,000",
+      "Data Volume": "1.6GB",
+      "Data Volume with 100% Bonus": "3.2GB",
+      "Validity": "30 Days",
+      "SMS to 127": "53",
+      "USSD Code": "*127*53#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N2000 DATA PLAN",
+      "Price (N)": "2,000",
+      "Data Volume": "3.75GB",
+      "Data Volume with 100% Bonus": "7.5GB",
+      "Validity": "30 Days",
+      "SMS to 127": "55",
+      "USSD Code": "*127*55#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N2,500 DATA PLAN",
+      "Price (N)": "2,500",
+      "Data Volume": "5GB",
+      "Data Volume with 100% Bonus": "10GB",
+      "Validity": "30 Days",
+      "SMS to 127": "58",
+      "USSD Code": "*127*58#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N3,000 DATA PLAN",
+      "Price (N)": "3,000",
+      "Data Volume": "6GB",
+      "Data Volume with 100% Bonus": "12GB",
+      "Validity": "30 Days",
+      "SMS to 127": "54",
+      "USSD Code": "*127*54#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N4,000 DATA PLAN",
+      "Price (N)": "4,000",
+      "Data Volume": "8GB",
+      "Data Volume with 100% Bonus": "16GB",
+      "Validity": "30 Days",
+      "SMS to 127": "59",
+      "USSD Code": "*127*59#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N5,000 DATA PLAN",
+      "Price (N)": "5,000",
+      "Data Volume": "12GB",
+      "Data Volume with 100% Bonus": "24GB",
+      "Validity": "30 Days",
+      "SMS to 127": "11",
+      "USSD Code": "*127*2#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N8,000 DATA PLAN",
+      "Price (N)": "8,000",
+      "Data Volume": "16GB",
+      "Data Volume with 100% Bonus": "32GB",
+      "Validity": "30 Days",
+      "SMS to 127": "12",
+      "USSD Code": "*127*1#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N10,000 DATA PLAN",
+      "Price (N)": "10,000",
+      "Data Volume": "23GB",
+      "Data Volume with 100% Bonus": "46GB",
+      "Validity": "30 Days",
+      "SMS to 127": "15",
+      "USSD Code": "*127*11#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N15,000 DATA PLAN",
+      "Price (N)": "15,000",
+      "Data Volume": "30GB",
+      "Data Volume with 100% Bonus": "60GB",
+      "Validity": "30 Days",
+      "SMS to 127": "16",
+      "USSD Code": "*127*12#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "3G-4G Plan Name": "N18,000 DATA PLAN",
+      "Price (N)": "18,000",
+      "Data Volume": "45GB",
+      "Data Volume with 100% Bonus": "90GB",
+      "Validity": "30 Days",
+      "SMS to 127": "17",
+      "USSD Code": "*127*13#",
+      "categoryTitle": "Plan Details"
+    },
+    {
+      "Plan Name": "TGIF – N500_WEEKEND_PLAN",
+      "Price (N)": "500",
+      "Data Volume": "3GB",
+      "Validity": "7 days (Weekend – Saturday 12 am – Sunday 11.59pm)",
+      "SMS to 127": "61",
+      "USSD Code": "*127*61#",
+      "categoryTitle": "Flexi Plans"
+    },
+    {
+      "Plan Name": "N200_NIGHT_PLAN",
+      "Price (N)": "200",
+      "Data Volume": "1GB",
+      "Validity": "1 day (12am – 5am)",
+      "SMS to 127": "60",
+      "USSD Code": "*127*60#",
+      "categoryTitle": "Flexi Plans"
+    },
+    {
+      "Plan Name": "G 100",
+      "Price (N)": "6,000",
+      "Data Volume": "4GB",
+      "Validity": "100 Hrs or 30 days",
+      "SMS to 127": "20",
+      "USSD Code": "*127*5#",
+      "categoryTitle": "Flexi Plans"
+    },
+    {
+      "Plan Name": "G 300",
+      "Price (N)": "15,000",
+      "Data Volume": "12GB",
+      "Validity": "300 Hrs or 3 Months",
+      "SMS to 127": "21",
+      "USSD Code": "*127*4#",
+      "categoryTitle": "Flexi Plans"
+    },
+    {
+      "Plan Name": "G-Leisure",
+      "Price (N)": "5,000",
+      "Data Volume": "12GB",
+      "Validity": "8PM to 9AM – Weekdays + All day on Weekends",
+      "SMS to 127": "30",
+      "USSD Code": "*127*7#",
+      "categoryTitle": "Flexi Plans"
+    },
+    {
+      "Plan Name": "G-Work",
+      "Price (N)": "6,000",
+      "Data Volume": "12GB",
+      "Validity": "8 AM to 9 PM",
+      "SMS to 127": "31",
+      "USSD Code": "*127*6#",
+      "categoryTitle": "Flexi Plans"
+    },
+    {
+      "Price": "N100",
+      "Data": "100MB",
+      "Off-Campus": "100MB",
+      "On-Campus": "225MB",
+      "Glo to Glo Bonus": "N100",
+      "Free Data for Gifting": "25MB",
+      "Validity": "2 days",
+      "categoryTitle": "Glo Campus Data Booster"
+    },
+    {
+      "Price": "N200",
+      "Data": "200MB",
+      "Off-Campus": "200MB",
+      "On-Campus": "450MB",
+      "Glo to Glo Bonus": "N200",
+      "Free Data for Gifting": "50MB",
+      "Validity": "4 days",
+      "categoryTitle": "Glo Campus Data Booster"
+    },
+    {
+      "Price": "N500",
+      "Data": "500MB",
+      "Off-Campus": "500MB",
+      "On-Campus": "1.12GB",
+      "Glo to Glo Bonus": "N500",
+      "Free Data for Gifting": "125MB",
+      "Validity": "7days",
+      "categoryTitle": "Glo Campus Data Booster"
+    },
+    {
+      "Price": "N1000",
+      "Data": "1GB",
+      "Off-Campus": "1GB",
+      "On-Campus": "2.25GB",
+      "Glo to Glo Bonus": "N1000",
+      "Free Data for Gifting": "250MB",
+      "Validity": "15 days",
+      "categoryTitle": "Glo Campus Data Booster"
+    },
+    {
+      "Price": "N2000",
+      "Data": "2GB",
+      "Off-Campus": "2GB",
+      "On-Campus": "4.5GB",
+      "Glo to Glo Bonus": "N2000",
+      "Free Data for Gifting": "500MB",
+      "Validity": "30 days",
+      "categoryTitle": "Glo Campus Data Booster"
+    },
+    {
+      "Price": "N5000",
+      "Data": "5GB",
+      "Off-Campus": "5GB",
+      "On-Campus": "11.2GB",
+      "Glo to Glo Bonus": "N5000",
+      "Free Data for Gifting": "1250MB",
+      "Validity": "30 days",
+      "categoryTitle": "Glo Campus Data Booster"
     }
   ]
 }

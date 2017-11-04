@@ -2,7 +2,7 @@ function main() {
   let tables = document.getElementsByTagName("table");
   let data = []
   for (let i = 0; i < tables.length; i++) {
-    data.push(parseTable(tables[i]));
+    data.push(...parseTable(tables[i]));
   }
   return {
     dateNow: Date.now(),
@@ -29,15 +29,13 @@ function parseTable(table) {
         let obj = {}
         innerData[akey] = value;
       }
+      innerData['categoryTitle'] = categoryTitle;
       data.push(innerData);
     }
 
   }
 
-  return {
-    categoryTitle,
-    data
-  };
+  return data;
 }
 
 let url = 'http://www.gloworld.com/ng/personal/data/data-plans/';
