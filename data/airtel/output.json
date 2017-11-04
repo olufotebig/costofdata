@@ -1,0 +1,236 @@
+{
+  "dateNow": 1509818531384,
+  "data": [
+    {
+      "Plan Name": "FREE SURF",
+      "Data Allowance": "UP TO 160MB FREE",
+      "Subscription Fee": " ",
+      "Validity Days": "30",
+      "USSD CODE": "*400#",
+      "Description": "Enjoy the convenience of pay as you go at a bundle rate. FREE Surf offers reduced browsing rate on usage and gives up to 160mb bonus data when you use up to 160MB. Browsing rate starts from 1kobo per KB. Billing starts from N10/MB and up to N2/MB.",
+      "categoryTitle": "NO COMMITMENT"
+    },
+    {
+      "Plan Name": "DAILY",
+      "Data Allowance": "50MB",
+      "Subscription Fee": "100",
+      "Validity Days": "1",
+      "USSD CODE": "*410#",
+      "Description": "Affordability at its best with our low cost data bundle plans. Enjoy the daily plan at N100 for 1 day ",
+      "categoryTitle": "BUNDLES"
+    },
+    {
+      "Plan Name": "200MB",
+      "Data Allowance": "200",
+      "Subscription Fee": "3",
+      "Validity Days": "*412#",
+      "USSD CODE": "Affordability at its best with our low cost data bundle plans. Enjoy the 200MB, 3 day plan at N200 for 3 days ",
+      "categoryTitle": "BUNDLES"
+    },
+    {
+      "Plan Name": "25MB (5MB DAILY)",
+      "Data Allowance": "100",
+      "Subscription Fee": "5",
+      "Validity Days": "*401#",
+      "USSD CODE": "Affordability at its best with our low cost data bundle plans. Enjoy 5 star pack at N100 for 5 days ",
+      "categoryTitle": "BUNDLES"
+    },
+    {
+      "Plan Name": "350MB",
+      "Data Allowance": "300",
+      "Subscription Fee": "7",
+      "Validity Days": "*417#",
+      "USSD CODE": "Affordability at its best with our low cost data bundle plans. Enjoy 350MB weekly plan at N300 for 7 days ",
+      "categoryTitle": "BUNDLES"
+    },
+    {
+      "Plan Name": "750MB",
+      "Data Allowance": "500",
+      "Subscription Fee": "14",
+      "Validity Days": "*418#",
+      "USSD CODE": "Affordability at its best with our low cost data bundle plans. Enjoy our 750 MB Easy plan at N500 for 14 days ",
+      "categoryTitle": "BUNDLES"
+    },
+    {
+      "Plan Name": "Unlimited",
+      "Data Allowance": "200",
+      "Subscription Fee": "10",
+      "Validity Days": "*482*1#",
+      "USSD CODE": " ",
+      "categoryTitle": "BUNDLES"
+    },
+    {
+      "Plan Name": "ANDROID 1.0",
+      "Data Allowance": "1.5GB",
+      "Subscription Fee": "1,000",
+      "Validity Days": "30",
+      "USSD CODE": "*496#",
+      "Description": "Get much more data for much less with Android plans. Plans are usable on all devices @ N1/MB all day. Enjoy Android 1.0 at N1,000 for 1.5GB. Valid for 30 days",
+      "categoryTitle": "ANDROID"
+    },
+    {
+      "Plan Name": "3.5GB",
+      "Data Allowance": "2,000",
+      "Subscription Fee": "30",
+      "Validity Days": "*437#",
+      "USSD CODE": "Be up to date with what's important with our Android 2.0 at N2,000 for 3.5GB. Valid for 30 days@ N1/MB all day. Usable on all devices",
+      "categoryTitle": "ANDROID"
+    },
+    {
+      "Plan Name": "5GB",
+      "Data Allowance": "2,500",
+      "Subscription Fee": "30",
+      "Validity Days": "*437*1#",
+      "USSD CODE": "Stay connected and never miss out on information with the Android 2.5 plan at N2,500 for 5GB. Valid for 30 days @ N1/MB all day.Usable on all devices",
+      "categoryTitle": "ANDROID"
+    },
+    {
+      "Plan Name": "7GB",
+      "Data Allowance": "3,500",
+      "Subscription Fee": "30",
+      "Validity Days": "*438#",
+      "USSD CODE": "Watch movies, download and stream music to stay up to date with Android 3.5 at N3,500 for 7GB. Valid for 30 days@ N1/MB all day. Usable on all devices",
+      "categoryTitle": "ANDROID"
+    },
+    {
+      "Plan Name": "9GB",
+      "Data Allowance": "4,000",
+      "Subscription Fee": "30",
+      "Validity Days": "*438*1#",
+      "USSD CODE": " ",
+      "categoryTitle": "ANDROID"
+    },
+    {
+      "Plan Name": "SOCIAL PLUS",
+      "Data Allowance": "250 MB",
+      "Subscription Fee": "300",
+      "Validity Days": "25",
+      "USSD CODE": "*885*1#",
+      "Description": "Stay socially connected and chat, browse and stay up to date with our Social Plus monthly plan at N300 for 250 MB valid for 30 days. Usable for Facebook,Twitter Whatsapp, We Chat and 2go e.t.c",
+      "categoryTitle": "SOCIAL"
+    },
+    {
+      "Plan Name": "UNLIMITED MONTH",
+      "Data Allowance": "3GB",
+      "Subscription Fee": "1,500",
+      "Validity Days": "30",
+      "USSD CODE": "*435#",
+      "Description": "BE Unlimited and enjoy our Unlimited monthly plan at N1,500 with 3GB valid for 30 days. usable on all devices including Blackberry.",
+      "categoryTitle": "UNLIMITED"
+    },
+    {
+      "Plan Name": "200MB",
+      "Data Allowance": "525",
+      "Subscription Fee": "7",
+      "Validity Days": "*440*17#",
+      "USSD CODE": "BE Unlimited and enjoy our Unlimited weekly plan at N525 with 200MB valid for 7 days. usable on all devices including Blackberry.",
+      "categoryTitle": "UNLIMITED"
+    },
+    {
+      "Plan Name": "40MB",
+      "Data Allowance": "100",
+      "Subscription Fee": "1",
+      "Validity Days": "*440*18#",
+      "USSD CODE": "BE Unlimited and enjoy our Unlimited plan at N100 with 40MB valid for 30 days. usable on all devices including Blackberry.",
+      "categoryTitle": "UNLIMITED"
+    },
+    {
+      "Plan Name": "BB COMPLETE MONTH",
+      "Data Allowance": "3GB",
+      "Subscription Fee": "1,000",
+      "Validity Days": "30",
+      "USSD CODE": "*431#",
+      "Description": "Connect, chat , stay up to date with our BlackBerry Complete plan at N1000 with 3GB. Valid for 30 days. usable on BB devices only. ",
+      "categoryTitle": "BLACKBERRY"
+    },
+    {
+      "Plan Name": "MEGA 5",
+      "Data Allowance": "10GB",
+      "Subscription Fee": "5,000",
+      "Validity Days": "30",
+      "USSD CODE ": "*452#",
+      "Description": "Enjoy our Mega 5 plans with 10GB at N5,000 for 30 days. Connect all your data enabled home and office devices with burn rate of 1kobo/kb 24hrs weekday and weekend.",
+      "categoryTitle": "MEGA PACKS"
+    },
+    {
+      "Plan Name": "16GB",
+      "Data Allowance": "8,000",
+      "Subscription Fee": "30",
+      "Validity Days": "*460#",
+      "USSD CODE ": "Stay on the Smart side of life with our 16GB Mega 8 plan, with a burn rate of 1kobo/kb 24hrs weekday and weekend. Enjoy our Mega 8 plan at N8,000 for 30 days.",
+      "categoryTitle": "MEGA PACKS"
+    },
+    {
+      "Plan Name": "50GB",
+      "Data Allowance": "36,000",
+      "Subscription Fee": "180",
+      "Validity Days": "*406#",
+      "USSD CODE ": "Do you require large data for the whole family or an office? Then the Airtel Mega 36 plan is the ultimate choice with 50GB at N36,000 valid for 180 days.",
+      "categoryTitle": "MEGA PACKS"
+    },
+    {
+      "Plan Name": "100GB",
+      "Data Allowance": "70,000",
+      "Subscription Fee": "365",
+      "Validity Days": "*407#",
+      "USSD CODE ": "Do you require large data for the whole family or an office? Then the Airtel Mega 70 plan is the ultimate choice with 100GB for N70,000 valid for 365 days.",
+      "categoryTitle": "MEGA PACKS"
+    },
+    {
+      "Plan Name": "200GB",
+      "Data Allowance": "136,000",
+      "Subscription Fee": "365",
+      "Validity Days": "*408#",
+      "USSD CODE ": "Do you require large data for the whole family or an office? Then the Airtel Smart 136 plan is the ultimate choice with 200GB at N136,000 valid for 365 days.",
+      "categoryTitle": "MEGA PACKS"
+    },
+    {
+      "PLAN NAME": "1",
+      "Validity period (days)": "200",
+      "Retail Price (N)": "*489*1#",
+      "Dial USSD Activation Code": "U200",
+      "Send SMS Activation Code to 489": "10",
+      "Data (MB)": "10",
+      "WTFB (MB)- FUP Applies post consumption at 100kbps": "20",
+      "Voice (Minutes)": "20",
+      "SMS (Count)": "Stay on the unliminet side of life. Enjoy 10MB data, 20 mins talktime and 20 sms at N200 only on our Unliminet 200 plan",
+      "categoryTitle": "UNLIMINET"
+    },
+    {
+      "PLAN NAME": "30",
+      "Validity period (days)": "1200",
+      "Retail Price (N)": "*489*2#",
+      "Dial USSD Activation Code": "U1200",
+      "Send SMS Activation Code to 489": "1024",
+      "Data (MB)": "200",
+      "WTFB (MB)- FUP Applies post consumption at 100kbps": "60",
+      "Voice (Minutes)": "60",
+      "SMS (Count)": "Stay on the unliminet side of life. Enjoy 1024 MB data, 60 mins talktime and 60 sms at N1,200 only on our Unliminet 1,200 plan",
+      "categoryTitle": "UNLIMINET"
+    },
+    {
+      "PLAN NAME": "30",
+      "Validity period (days)": "3,000",
+      "Retail Price (N)": "*489*3#",
+      "Dial USSD Activation Code": "U3000",
+      "Send SMS Activation Code to 489": "1200",
+      "Data (MB)": "200",
+      "WTFB (MB)- FUP Applies post consumption at 100kbps": "180",
+      "Voice (Minutes)": "300",
+      "SMS (Count)": "Stay on the unliminet side of life. Enjoy 1200MB data, 180 mins talktime and 300 sms at N3,000 only on our Unliminet 3,000 plan",
+      "categoryTitle": "UNLIMINET"
+    },
+    {
+      "PLAN NAME": "30",
+      "Validity period (days)": "5,000",
+      "Retail Price (N)": "*489*4#",
+      "Dial USSD Activation Code": "U5000",
+      "Send SMS Activation Code to 489": "2500",
+      "Data (MB)": "500",
+      "WTFB (MB)- FUP Applies post consumption at 100kbps": "300",
+      "Voice (Minutes)": "500",
+      "SMS (Count)": "Stay on the unliminet side of life. Enjoy 2500 data, 300 mins talktime and 500 sms at N5,000 only on our Unliminet 5,000 plan",
+      "categoryTitle": "UNLIMINET"
+    }
+  ]
+}
